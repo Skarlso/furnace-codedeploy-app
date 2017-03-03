@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm -fr /var/www/html/healthy.html
+rm -fr /var/www/html/index.html
